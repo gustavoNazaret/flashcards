@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #eaeaea;
+    background-color: ##545252;
     font-family: Arial, sans-serif;
     min-height: 100vh;
     display: flex;
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #3a0799;
+    background-color: #000000;
     color: #ffffff;
     padding: 10px 25px;
     display: flex;
@@ -23,7 +23,7 @@ header {
 }
 
 .logo {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Papyrus', Times, serif;
     font-size: 20px;
     font-weight: bold;
 }
@@ -45,7 +45,7 @@ main {
 }
 
 .titulo-principal {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Papyrus', Times, serif;
     font-size: 18px;
     font-weight: bold;
     color: #000000;
